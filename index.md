@@ -33,6 +33,7 @@ Fractured Well Buffers for 5km, 20km, 50km, and 100km shown with the NOAA and AO
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/PercentChangeAK.png" width="100%" alt="Percent Change in Area Map">
 </figure>
+Percent Change in Area Within and Outside of the 50km Buffer and 100km Buffer Zones around Fracturd Wells
 
 ## Skills
 ArcGIS Pro
