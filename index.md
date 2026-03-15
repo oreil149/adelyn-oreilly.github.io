@@ -1,6 +1,6 @@
 # Adelyn O'Reilly
 
-GIS and Spatial Data Portfolio
+GIS Portfolio
 
 ## Projects
 
