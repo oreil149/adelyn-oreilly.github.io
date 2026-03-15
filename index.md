@@ -58,6 +58,7 @@ Percent Change in Area Within and Outside of the 50km Buffer and 100km Buffer Zo
 Percent Change in Area Near and Outside of the 50km and 100km radii around Fracturd Wells
 
 #### GIS analysis of potential environmental risks of hydraulic fracturing activity in Alaska from 1990–2020. Using datasets from the National Oceanic and Atmospheric Administration and the Alaska Oil and Gas Conservation Commission. Results showed no direct correlation between proximity to fracking sites and glacial decline, but meltwater pathways could flow toward watersheds supplying nearby communities.
+You can view the detailed [Glacier Report](Glacier_Report.pdf).
 
 ## Skills
 ArcGIS Pro
