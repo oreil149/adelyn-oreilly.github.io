@@ -25,7 +25,7 @@ Spatial analysis of demographic patterns using census data.
 ### Glacial Maps
 Assessing Hydrological Risks of Hydraulic Fracking Near Glaciers in Alaska 1990 - 2020
 <figure>
-  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/FrackingBuffers.png" width="80%" alt="Fracking Buffers Map">
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/FrackingBuffers.png" width="100%" alt="Fracking Buffers Map">
 </figure>
 
 ## Skills
