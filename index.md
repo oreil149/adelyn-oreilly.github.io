@@ -12,8 +12,9 @@ GIS Portfolio
 You can view the detailed [Transit Report](Transit Report.pdf).
 
 ### Interactive Tsunami Hazard Web Map
-Interactive web map visualizing tsunami hazard zones and coastal infrastructure.
-<a href="https://github.com/oreil149/Tsunami-Webmap">Research</a>
+#### Interactive web map visualizing tsunami events and associated runups. With pop-ups displaying relevant data on water height, location, timestamp, number of runups.
+#### Using..... local host 
+<a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020 to 2025)</a>
 
 ### U.S. Imports and Exports Flow Map
 #### Cartographic visualization of U.S. foreign trade relationships
