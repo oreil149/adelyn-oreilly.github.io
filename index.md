@@ -14,16 +14,19 @@ Interactive web map visualizing tsunami hazard zones and coastal infrastructure.
 Cartographic visualization of international trade flows.
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ExportUSD.png" width="80%" alt="U.S. Exports Flow Map">
-  <figcaption>U.S. Exports Flow Map</figcaption>
 </figure>
-
 <figure>
-  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/FrackingBuffers.png" width="80%" alt="Fracking Buffers Map">
-  <figcaption>Fracking Buffers Map</figcaption>
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ImportsUSD.png" width="80%" alt="U.S. Imports Flow Map">
 </figure>
 
 ### Census Block Group Choropleth Map
 Spatial analysis of demographic patterns using census data.
+
+### Glacial Maps
+Assessing Hydrological Risks of Hydraulic Fracking Near Glaciers in Alaska 1990 - 2020
+<figure>
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/FrackingBuffers.png" width="80%" alt="Fracking Buffers Map">
+</figure>
 
 ## Skills
 ArcGIS Pro
