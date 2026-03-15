@@ -13,12 +13,12 @@ Interactive web map visualizing tsunami hazard zones and coastal infrastructure.
 ### U.S. Imports and Exports Flow Map
 Cartographic visualization of international trade flows.
 <figure>
-  <img src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/ExportsUSD.png" width="100%" alt="U.S. Imports and Exports Flow Map">
-  <figcaption>U.S. Imports and Exports Flow Map</figcaption>
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ExportsUSD.png" width="80%" alt="U.S. Exports Flow Map">
+  <figcaption>U.S. Exports Flow Map</figcaption>
 </figure>
 
 <figure>
-  <img src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/FrackingBuffers.png" width="100%" alt="Fracking Buffers Map">
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/FrackingBuffers.png" width="80%" alt="Fracking Buffers Map">
   <figcaption>Fracking Buffers Map</figcaption>
 </figure>
 
