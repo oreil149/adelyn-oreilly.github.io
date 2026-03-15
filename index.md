@@ -5,7 +5,8 @@ GIS Portfolio
 ## Projects
 
 ### Travel Behavior Flow Map
-Spatial analysis of transportation flows in the Twin Cities metropolitan area using travel survey data.
+## Spatial analysis of transportation flows in the Twin Cities metropolitan area using travel survey data.
+You can view the detailed [here](Transit Report.pdf).
 
 ### Interactive Tsunami Hazard Web Map
 Interactive web map visualizing tsunami hazard zones and coastal infrastructure.
