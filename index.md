@@ -12,8 +12,8 @@ Interactive web map visualizing tsunami hazard zones and coastal infrastructure.
 
 ### U.S. Imports and Exports Flow Map
 Cartographic visualization of international trade flows.
-<iframe src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/ExportsUSD.pdf" width="100%" height="600px"></iframe>
-<iframe src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/ImportsUSD.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/ExportsUSD.png" width="100%" height="600px"></iframe>
+<iframe src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/FrackingBuffers.png" width="100%" height="600px"></iframe>
 
 ### Census Block Group Choropleth Map
 Spatial analysis of demographic patterns using census data.
