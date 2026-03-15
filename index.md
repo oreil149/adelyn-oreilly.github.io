@@ -13,10 +13,10 @@ Interactive web map visualizing tsunami hazard zones and coastal infrastructure.
 ### U.S. Imports and Exports Flow Map
 Cartographic visualization of international trade flows.
 <figure>
-  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ExportUSD.png" width="80%" alt="U.S. Exports Flow Map">
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ExportUSD.png" width="100%" alt="U.S. Exports Flow Map">
 </figure>
 <figure>
-  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ImportUSD.png" width="80%" alt="U.S. Imports Flow Map">
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ImportUSD.png" width="100%" alt="U.S. Imports Flow Map">
 </figure>
 
 ### Census Block Group Choropleth Map
