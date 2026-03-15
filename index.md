@@ -15,6 +15,7 @@ Cartographic visualization of international trade flows.
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ExportUSD.png" width="100%" alt="U.S. Exports Flow Map">
 </figure>
+
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ImportUSD.png" width="100%" alt="U.S. Imports Flow Map">
 </figure>
@@ -26,6 +27,11 @@ Spatial analysis of demographic patterns using census data.
 Assessing Hydrological Risks of Hydraulic Fracking Near Glaciers in Alaska 1990 - 2020
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/FrackingBuffers.png" width="100%" alt="Fracking Buffers Map">
+</figure>
+Fractured Well Buffers for 5km, 20km, 50km, and 100km shown with the NOAA and AOGCC Glacial Area change from 1986 to 2020 shown as single symbols.
+
+<figure>
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/PercentChangeAK.png" width="100%" alt="Percent Change in Area Map">
 </figure>
 
 ## Skills
