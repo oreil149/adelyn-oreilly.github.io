@@ -13,7 +13,7 @@ Interactive web map visualizing tsunami hazard zones and coastal infrastructure.
 ### U.S. Imports and Exports Flow Map
 Cartographic visualization of international trade flows.
 <figure>
-  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ExportsUSD.png" width="80%" alt="U.S. Exports Flow Map">
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ExportUSD.png" width="80%" alt="U.S. Exports Flow Map">
   <figcaption>U.S. Exports Flow Map</figcaption>
 </figure>
 
