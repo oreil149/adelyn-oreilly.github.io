@@ -13,9 +13,7 @@ Interactive web map visualizing tsunami hazard zones and coastal infrastructure.
 ### U.S. Imports and Exports Flow Map
 Cartographic visualization of international trade flows.
 
-[View Map (PDF)](files/ExportsUSD.pdf)
-[View Map (PDF)](files/ImportsUSD.pdf)
-
+<iframe src="files/ExportsUSD.pdf" width="100%" height="600px"></iframe>v[View Map (PDF)](files/ImportsUSD.pdf)
 
 ### Census Block Group Choropleth Map
 Spatial analysis of demographic patterns using census data.
