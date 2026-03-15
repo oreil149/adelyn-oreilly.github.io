@@ -24,7 +24,8 @@ Cartographic visualization of international trade flows.
 Spatial analysis of demographic patterns using census data.
 
 ### Glacial Maps
-Assessing Hydrological Risks of Hydraulic Fracking Near Glaciers in Alaska 1990 - 2020
+## Assessing Hydrological Risks of Hydraulic Fracking Near Glaciers in Alaska 1990 - 2020
+
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Ovrlaid1986and2020.png" width="100%" alt="1986 and 2020 Comparison">
 </figure>
