@@ -82,19 +82,19 @@ Using spatial analysis tools in ArcGIS Pro along with data cleaning and statisti
 </figure>
 
 <figure>
-  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/StPaulActive.jpg" width="100%" alt="St. Paul Active Modes and Frequency">
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/StPaulActive.jpg" width="100%" height="80%" alt="St. Paul Active Modes and Frequency">
 </figure>
 
 <figure>
-  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/StPaulPV.jpg" width="100%" alt="St. Paul Private Vehicle">
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/StPaulPV.jpg" width="100%" height="80%" alt="St. Paul Private Vehicle">
 </figure>
 
 <figure>
-  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/StPaulTrasit.jpg" width="100%" alt="St. Paul Public Transit">
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/StPaulTrasit.jpg" width="100%" height="80%" alt="St. Paul Public Transit">
 </figure>
 
 <figure>
-  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/StPaulTaxi.jpg" width="100%" alt="St. Paul Taxi/Rideshare">
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/StPaulTaxi.jpg" width="100%" height="80%" alt="St. Paul Taxi/Rideshare">
 </figure>
 
 #### The line features connecting origins and destinations to visualize transportation movement across the region. The analysis found that personal vehicles dominate regional travel, while public transit, and active transportation are more common in dense urban areas. 
