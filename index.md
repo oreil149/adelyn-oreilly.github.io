@@ -84,6 +84,7 @@ Using raster analysis and map algebra to calculate the Normalized Burn Ratio (NB
 
 #### The resulting map classified burn severity into five categories—enhanced regrowth, unburned, low, moderate, and high severity using equal-interval classification. Results showed that most of the study area remained unburned (~705 km²), while approximately 23.8 km² experienced high-severity burn, indicating significant vegetation loss. 
 
+
 ## Skills
 ArcGIS Pro
 ArcGIS Online
