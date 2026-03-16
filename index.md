@@ -1,3 +1,15 @@
+<style>
+.site-title {
+  color: #1a237e !important; /* dark indigo */
+  pointer-events: none;      /* disables clicking */
+  text-decoration: none;
+}
+
+.site-title:visited {
+  color: #1a237e !important;
+}
+</style>
+
 # GIS Portfolio
 
 ## City of Minneapolis Surface Water and Sewers Intern Projects
