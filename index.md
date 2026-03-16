@@ -5,7 +5,6 @@
   text-decoration: none;
   font-family: Calibri, sans-serif;
   font-weight: bold;
-  font-size: 100;
 }
 
 .site-title:visited {
@@ -116,7 +115,15 @@ Using spatial analysis tools in ArcGIS Pro along with data cleaning and statisti
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/StPaulTaxi.jpg" width="100%" height="80%" alt="St. Paul Taxi/Rideshare">
 </figure>
 
-Spatial analysis of demographic patterns using census data.
+<figure>
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Destination.jpg" width="100%" height="80%" alt="Twin Cities Weighted Destination Count by Census Block Group Population">
+</figure>
+Twin Cities Weighted Destination Counts by Census Block Group PopulationS to determine the per capita count in each destination census block group.
+
+<figure>
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Destination.jpg" width="100%" height="80%" alt="Twin Cities Weighted Origin Count by Census Block Group Population">
+</figure>
+Twin Cities Weighted Origin Counts by Census Block Group PopulationS to determine the per capita count in each origin census block group.
 
 The line features connecting origins and destinations to visualize transportation movement across the region. The analysis found that personal vehicles dominate regional travel, while public transit, and active transportation are more common in dense urban areas. 
 You can view the detailed [Transit Report](Transit Report.pdf).
