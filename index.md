@@ -125,7 +125,7 @@ Twin Cities Weighted Destination Counts by Census Block Group PopulationS to det
 </figure>
 Twin Cities Weighted Origin Counts by Census Block Group PopulationS to determine the per capita count in each origin census block group.
 
-The line features connecting origins and destinations to visualize transportation movement across the region. The analysis found that personal vehicles dominate regional travel, while public transit, and active transportation are more common in dense urban areas. You can view the detailed [Travel Report](TransitReportUpdate.pdf).
+The line features connecting origins and destinations to visualize transportation movement across the region. The analysis found that personal vehicles dominate regional travel, while public transit, and active transportation are more common in dense urban areas. You can view the detailed [Travel Report](Tansit Report.pdf).
 
 
 
