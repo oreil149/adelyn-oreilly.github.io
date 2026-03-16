@@ -3,3 +3,6 @@ description: GIS Portfolio
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
+sass:
+  style: compressed
+include: [_assets/css/custom.css]
