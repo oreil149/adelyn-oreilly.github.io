@@ -13,7 +13,10 @@
 
 Interactive web map visualizing tsunami events and associated runups from 2020–2025. Pop-ups display event attributes such as water height, location, timestamp, and number of recorded runups. Using JavaScript, HTML, and the ArcGIS Maps SDK, developed on local host.
 
-<video src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/tsunami.mp4" controls style="width:50; height:auto;">
+<video 
+  src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/tsunami.mp4" 
+  controls 
+  style="width:50%; height:auto;">
 </video>
 <a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020–2025) Repo</a>
 
