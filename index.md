@@ -5,12 +5,16 @@
   text-decoration: none;
   font-family: Calibri, sans-serif;
   font-weight: bold;
-  font-size: 32;
+  font-size: 60;
 }
 
 .site-title:visited {
   color: #1a237e !important;
   font-family: Calibri, sans-serif;
+}
+body {
+  font-family: Calibri, sans-serif;
+  color: black;
 }
 </style>
 
@@ -39,7 +43,7 @@ Interactive web map visualizing tsunami events and associated runups from 2020�
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ModesTranspo.png" width="100%" alt="Screenshot of Modes of Transportation to Work by U.S. State (2023)">
 </figure>
 
-Interactive web map visualizing commuting patterns across the United States using 2023 census data. The map allows users to explore how different transportation modes vary geographically across states. Using HTML, JavaScript, and the ArcGIS Maps SDK, developed on local host. <a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
+Interactive web map visualizing commuting patterns to work across the United States using 2023 census data. Using HTML, JavaScript, ArcGIS Online, and the ArcGIS Maps SDK, developed on local host. <a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
 
 <a href="https://oreil149.github.io/adelyn-oreilly.github.io/Transpo2Work.mp4">Screen Recording of Modes of Transportation</a>
 
@@ -127,6 +131,7 @@ Using raster analysis and map algebra to calculate the Normalized Burn Ratio (NB
 </figure>
 
 #### The resulting map classified burn severity into five categories using equal-interval classification: enhanced regrowth, unburned, low, moderate, and high severity. Results showed that most of the study area remained unburned (~705 km²), while approximately 23.8 km² experienced high-severity burn, indicating significant vegetation loss. 
+
 
 ## QGIS Maps 
 
