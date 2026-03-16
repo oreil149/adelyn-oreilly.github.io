@@ -15,8 +15,7 @@
 
 Interactive web map visualizing tsunami events and associated runups from 2020–2025. Pop-ups display event attributes such as water height, location, timestamp, and number of recorded runups. Using JavaScript, HTML, and the ArcGIS Maps SDK, developed on local host. <a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020–2025) Repo</a>
 
-[Screen Recording of 3D Tsunami Visualization Web Map]<source src="https://oreil149.github.io/adelyn-oreilly.github.io/tsunami.mp4" type="video/mp4">
-
+<a href="https://oreil149.github.io/adelyn-oreilly.github.io/tsunami.mp4"> Screen Recording of 3D Tsunami Visualization Web Map </a>
 
 ### Interactive Map of Modes of Transportation to Work by U.S. State (2023)
 
@@ -26,9 +25,7 @@ Interactive web map visualizing tsunami events and associated runups from 2020�
 
 Interactive web map visualizing commuting patterns across the United States using 2023 census data. The map allows users to explore how different transportation modes vary geographically across states. Using HTML, JavaScript, and the ArcGIS Maps SDK, developed on local host. <a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
 
-<video width="800" controls>
-  <source src="https://oreil149.github.io/adelyn-oreilly.github.io/Transpo2Work.mp4" type="video/mp4">
-</video>
+<a href="[https://github.com/oreil149/Modes-of-Transportation-US](https://oreil149.github.io/adelyn-oreilly.github.io/Transpo2Work.mp4)">Screen Recording of Modes of Transportation</a>
 
 ### U.S. Imports and Exports Flow Map
 Cartographic visualization of U.S. foreign trade relationships
