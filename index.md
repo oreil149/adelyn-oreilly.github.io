@@ -8,13 +8,15 @@ GIS Portfolio
 
 ## Course Projects
 ### Travel Behavior Flow Map
-#### Spatial analysis of transportation flows in the Twin Cities metropolitan area using travel survey data.
-You can view the detailed [Transit Report](Transit Report.pdf).
 
 ### Interactive Tsunami Hazard Web Map
 #### Interactive web map visualizing tsunami events and associated runups. With pop-ups displaying relevant data on water height, location, timestamp, number of runups.
 #### Using..... local host 
 <a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020 to 2025)</a>
+
+### Interactive Map of Modes of Transportation to Work by U.S. State (2023)
+#### Using..... local host
+<a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
 
 ### U.S. Imports and Exports Flow Map
 #### Cartographic visualization of U.S. foreign trade relationships
@@ -32,10 +34,6 @@ Using ArcGIS Pro geoprocessing tools such as XY Table to Point, XY Table to Line
 
 ### Census Block Group Choropleth Map
 Spatial analysis of demographic patterns using census data.
-
-### Interactive Map of Modes of Transportation to Work by U.S. State (2023)
-#### Using..... local host
-<a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
 
 ### Glacial Maps
 #### Assessing Hydrological Risks of Hydraulic Fracking Near Glaciers in Alaska 1990 - 2020
@@ -69,14 +67,16 @@ Percent Change in Area Near and Outside of the 50km and 100km radii around Fract
 #### GIS analysis of potential environmental risks of hydraulic fracturing activity in Alaska from 1990–2020. Using datasets from the National Oceanic and Atmospheric Administration and the Alaska Oil and Gas Conservation Commission. Results showed no direct correlation between proximity to fracking sites and glacial decline, but meltwater pathways could flow toward watersheds supplying nearby communities.
 You can view the detailed [Glacier Report](Glacier_Report.pdf).
 
+#### Spatial analysis of transportation flows in the Twin Cities metropolitan area using travel survey data.
+You can view the detailed [Transit Report](Transit Report.pdf).
+
 ### Map of Differenced Normalized Burn Ratio (dNBR) Symbolized by Severity
-#### Conducted raster-based wildfire severity analysis 
-Using ArcGIS Pro and Landsat 5 imagery to evaluate vegetation loss from the Bastrop wildfire in Texas.
+#### Conducted Wildfire Severity Analysis using Landsat 5 imagery to evaluate vegetation loss from the Bastrop wildfire in Texas. 
+Using raster analysis and map algebra to calculate the Normalized Burn Ratio (NBR) for pre-fire and post-fire imagery and derived the Differenced Normalized Burn Ratio (dNBR) to quantify burn severity across the landscape. 
 
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Bastrop.png" width="100%" alt="Wildfire Burn Severity in Bastrop, Texas">
 </figure>
-Using raster analysis and map algebra, I calculated the Normalized Burn Ratio (NBR) for pre-fire and post-fire imagery and derived the Differenced Normalized Burn Ratio (dNBR) to quantify burn severity across the landscape. 
 
 #### The resulting map classified burn severity into five categories—enhanced regrowth, unburned, low, moderate, and high severity using equal-interval classification. Results showed that most of the study area remained unburned (~705 km²), while approximately 23.8 km² experienced high-severity burn, indicating significant vegetation loss. 
 
