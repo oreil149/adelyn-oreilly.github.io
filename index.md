@@ -128,6 +128,7 @@ Twin Cities Weighted Origin Counts by Census Block Group PopulationS to determin
 The line features connecting origins and destinations to visualize transportation movement across the region. The analysis found that personal vehicles dominate regional travel, while public transit, and active transportation are more common in dense urban areas. 
 You can view the detailed [Transit Report](Transit_Report_Update.pdf).
 
+
 ### Map of Differenced Normalized Burn Ratio (dNBR) Symbolized by Severity
 Conducted Wildfire Severity Analysis using Landsat 5 imagery to evaluate vegetation loss from the Bastrop wildfire in Texas. 
 Using raster analysis and map algebra to calculate the Normalized Burn Ratio (NBR) for pre-fire and post-fire imagery and derived the Differenced Normalized Burn Ratio (dNBR) to quantify burn severity across the landscape. 
