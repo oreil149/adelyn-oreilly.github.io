@@ -22,6 +22,11 @@ Interactive web map visualizing tsunami events and associated runups from 2020â€
 
 
 ### Interactive Map of Modes of Transportation to Work by U.S. State (2023)
+
+<figure>
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ModesTranspo.png" width="100%" alt="Screenshot of Modes of Transportation to Work by U.S. State (2023)">
+</figure>
+
 Interactive web map visualizing commuting patterns across the United States using 2023 census data. The map allows users to explore how different transportation modes vary geographically across states. Using HTML, JavaScript, and the ArcGIS Maps SDK, developed on local host.
 
 <video 
