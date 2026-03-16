@@ -16,7 +16,7 @@ Interactive web map visualizing tsunami events and associated runups from 2020â€
 <video 
   src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/tsunami.mp4" 
   controls 
-  style="width:50%; height:auto;">
+  style="width:50; height:auto;">
 </video>
 <a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020â€“2025) Repo</a>
 
