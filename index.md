@@ -16,7 +16,7 @@ Interactive web map visualizing tsunami events and associated runups from 2020â€
 <video 
   src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/tsunami.mp4" 
   controls 
-  style="width:fit-content; height:auto;">
+  style="width:min-content; height:auto;">
 </video>
 <a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020â€“2025) Repo</a>
 
@@ -30,9 +30,7 @@ Interactive web map visualizing tsunami events and associated runups from 2020â€
 Interactive web map visualizing commuting patterns across the United States using 2023 census data. The map allows users to explore how different transportation modes vary geographically across states. Using HTML, JavaScript, and the ArcGIS Maps SDK, developed on local host.
 
 <video 
-  src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/Transpo2Work.mp4" 
-  controls 
-  style="width:fit-content; height:auto;">
+  src="https://raw.githubusercontent.com/oreil149/adelyn-oreilly.github.io/main/Transpo2Work.mp4">
 </video>
 <a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
 
