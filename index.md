@@ -5,9 +5,8 @@
   text-decoration: none;
   font-family: Calibri, sans-serif;
   font-weight: bold;
-  font-size: 60;
-  background-color: #e3f2fd; /* light blue */
-  padding: 20px;
+  font-size: 100;
+  wrapper-clor: #e3f2fd; /* light blue */
 }
 
 .site-title:visited {
