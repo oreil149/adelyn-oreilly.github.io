@@ -13,12 +13,9 @@
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Tsunami.png" width="100%" alt="Screenshot of Tsunami Map">
 </figure>
 
-Interactive web map visualizing tsunami events and associated runups from 2020–2025. Pop-ups display event attributes such as water height, location, timestamp, and number of recorded runups. Using JavaScript, HTML, and the ArcGIS Maps SDK, developed on local host.
+Interactive web map visualizing tsunami events and associated runups from 2020–2025. Pop-ups display event attributes such as water height, location, timestamp, and number of recorded runups. Using JavaScript, HTML, and the ArcGIS Maps SDK, developed on local host. <a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020–2025) Repo</a>
 
-<video width="760" height="387" controls>
-  <source src="https://oreil149.github.io/adelyn-oreilly.github.io/tsunami.mp4" type="video/mp4">
-</video>
-<a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020–2025) Repo</a>
+[Screen Recording of 3D Tsunami Visualization Web Map]<source src="https://oreil149.github.io/adelyn-oreilly.github.io/tsunami.mp4" type="video/mp4">
 
 
 ### Interactive Map of Modes of Transportation to Work by U.S. State (2023)
@@ -27,13 +24,11 @@ Interactive web map visualizing tsunami events and associated runups from 2020�
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ModesTranspo.png" width="100%" alt="Screenshot of Modes of Transportation to Work by U.S. State (2023)">
 </figure>
 
-Interactive web map visualizing commuting patterns across the United States using 2023 census data. The map allows users to explore how different transportation modes vary geographically across states. Using HTML, JavaScript, and the ArcGIS Maps SDK, developed on local host.
+Interactive web map visualizing commuting patterns across the United States using 2023 census data. The map allows users to explore how different transportation modes vary geographically across states. Using HTML, JavaScript, and the ArcGIS Maps SDK, developed on local host. <a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
 
 <video width="800" controls>
   <source src="https://oreil149.github.io/adelyn-oreilly.github.io/Transpo2Work.mp4" type="video/mp4">
 </video>
-<a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
-
 
 ### U.S. Imports and Exports Flow Map
 Cartographic visualization of U.S. foreign trade relationships
