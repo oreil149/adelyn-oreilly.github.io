@@ -8,7 +8,7 @@
 ### Interactive Tsunami Web Map
 
 <figure>
-  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Tsunami.png" width="100%" alt="Screenshot of Tsunami Map">
+  <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Tsunami.png" width="50%" alt="Screenshot of Tsunami Map">
 </figure>
 
 Interactive web map visualizing tsunami events and associated runups from 2020–2025. Pop-ups display event attributes such as water height, location, timestamp, and number of recorded runups. Using JavaScript, HTML, and the ArcGIS Maps SDK, developed on local host.
