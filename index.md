@@ -126,3 +126,4 @@ ArcGIS Online
 Python
 GIS Analysis  
 Cartographic Principles
+QGIS
