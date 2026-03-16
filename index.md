@@ -9,12 +9,16 @@ GIS Portfolio
 ## Course Projects
 
 ### Interactive Tsunami Hazard Web Map
-#### Interactive web map visualizing tsunami events and associated runups. With pop-ups displaying relevant data on water height, location, timestamp, number of runups.
-#### Using..... local host 
-<a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020 to 2025)</a>
+#### Interactive web map visualizing tsunami events and associated runups from 2020–2025. Pop-ups display event attributes such as water height, location, timestamp, and number of recorded runups. Built using JavaScript and the ArcGIS Maps SDK, developed and tested locally before deployment.
+Using JavaScript, HTML/CSS, local host server, and <span>ArcGIS Maps SDK for JavaScript</span>.
+
+<a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020–2025)</a>
+
 
 ### Interactive Map of Modes of Transportation to Work by U.S. State (2023)
-#### Using..... local host
+#### Interactive web map visualizing commuting patterns across the United States using 2023 census data. The map allows users to explore how different transportation modes vary geographically across states.
+Using JavaScript, HTML/CSS, local host server, and <span>ArcGIS Maps SDK for JavaScript</span>.
+
 <a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
 
 ### U.S. Imports and Exports Flow Map
