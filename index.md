@@ -3,10 +3,14 @@
   color: #1a237e !important; /* dark indigo */
   pointer-events: none;      /* disables clicking */
   text-decoration: none;
+  font-family: Calibri, sans-serif;
+  font-weight: bold;
+  font-size: 32;
 }
 
 .site-title:visited {
   color: #1a237e !important;
+  font-family: Calibri, sans-serif;
 }
 </style>
 
