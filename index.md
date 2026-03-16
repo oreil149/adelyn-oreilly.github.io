@@ -101,9 +101,10 @@ Using raster analysis and map algebra to calculate the Normalized Burn Ratio (NB
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Bastrop.png" width="100%" alt="Wildfire Burn Severity in Bastrop, Texas">
 </figure>
 
-#### The resulting map classified burn severity into five categories—enhanced regrowth, unburned, low, moderate, and high severity using equal-interval classification. Results showed that most of the study area remained unburned (~705 km²), while approximately 23.8 km² experienced high-severity burn, indicating significant vegetation loss. 
+#### The resulting map classified burn severity into five categories using equal-interval classification: enhanced regrowth, unburned, low, moderate, and high severity. Results showed that most of the study area remained unburned (~705 km²), while approximately 23.8 km² experienced high-severity burn, indicating significant vegetation loss. 
 
 ## QGIS Maps 
+
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/FireRoutes.png" width="100%" alt="Fire Routes and Service Areas Accross Minneapolis, MN">
 </figure>
@@ -117,6 +118,7 @@ Utah Cubic Triangulated Irregular Network (TIN) and Inverse Distance Weighting (
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Voronoi.png" width="100%" alt="Voronoi Polygons of Utah">
 </figure>
+Voronoi Polygon Interpolation of Utah Elevation
 
 ## Skills
 ArcGIS Pro
