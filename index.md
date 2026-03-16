@@ -14,7 +14,7 @@ Using JavaScript, HTML/CSS, local host server, and <span>ArcGIS Maps SDK for Jav
 
 <video src="https://github.com/oreil149/tsunami.mp4" width="400" controls></video>
 
-<a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020–2025)</a>
+<a href="https://github.com/oreil149/Tsunami-Webmap">3D Tsunami Visualization and Associated Runups (2020–2025) Repo</a>
 
 
 ### Interactive Map of Modes of Transportation to Work by U.S. State (2023)
