@@ -8,7 +8,7 @@ GIS Portfolio
 
 ## Course Projects
 
-### Interactive Tsunami Hazard Web Map
+### Interactive Tsunami Web Map
 #### Interactive web map visualizing tsunami events and associated runups from 2020–2025. Pop-ups display event attributes such as water height, location, timestamp, and number of recorded runups. Built using JavaScript and the ArcGIS Maps SDK, developed and tested locally before deployment.
 Using JavaScript, HTML/CSS, local host server, and <span>ArcGIS Maps SDK for JavaScript</span>.
 
