@@ -23,6 +23,7 @@ Interactive web map visualizing commuting patterns across the United States usin
 
 <a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
 
+
 ### U.S. Imports and Exports Flow Map
 Cartographic visualization of U.S. foreign trade relationships
 Using ArcGIS Pro geoprocessing tools such as XY Table to Point, XY Table to Line, attribute table joins, and geodesic line creation.
@@ -35,10 +36,7 @@ Using ArcGIS Pro geoprocessing tools such as XY Table to Point, XY Table to Line
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/ImportUSD.png" width="100%" alt="U.S. Imports Flow Map">
 </figure>
 
-#### Created an origin–destination flow map visualizing 2024 trade relationships between the United States and its top 43 international partners using data from the United States Census Bureau and IPUMS International. Applies cartographic principles through clear visual hierarchy: line thickness, color differentiation, and layout separation to improve readability. 
-
-### Census Block Group Choropleth Map
-Spatial analysis of demographic patterns using census data.
+Created an origin–destination flow map visualizing 2024 trade relationships between the United States and its top 43 international partners using data from the United States Census Bureau and IPUMS International. Applies cartographic principles through clear visual hierarchy: line thickness, color differentiation, and layout separation to improve readability. 
 
 ### Glacial Maps
 Assessing Hydrological Risks of Hydraulic Fracking Near Glaciers in Alaska 1990 - 2020
@@ -69,7 +67,7 @@ Percent Change in Area Within and Outside of the 50km Buffer and 100km Buffer Zo
 </figure>
 Percent Change in Area Near and Outside of the 50km and 100km radii around Fracturd Wells
 
-#### GIS analysis of potential environmental risks of hydraulic fracturing activity in Alaska from 1990–2020. Using datasets from the National Oceanic and Atmospheric Administration and the Alaska Oil and Gas Conservation Commission. Results showed no direct correlation between proximity to fracking sites and glacial decline, but meltwater pathways could flow toward watersheds supplying nearby communities.
+GIS analysis of potential environmental risks of hydraulic fracturing activity in Alaska from 1990–2020. Using datasets from the National Oceanic and Atmospheric Administration and the Alaska Oil and Gas Conservation Commission. Results showed no direct correlation between proximity to fracking sites and glacial decline, but meltwater pathways could flow toward watersheds supplying nearby communities.
 You can view the detailed [Glacier Report](Glacier_Report.pdf).
 
 ### Visualizing Flow of Travel Behavior - Twin Cities Metropolitan Area - 2021
@@ -96,7 +94,9 @@ Using spatial analysis tools in ArcGIS Pro along with data cleaning and statisti
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/StPaulTaxi.jpg" width="100%" height="80%" alt="St. Paul Taxi/Rideshare">
 </figure>
 
-#### The line features connecting origins and destinations to visualize transportation movement across the region. The analysis found that personal vehicles dominate regional travel, while public transit, and active transportation are more common in dense urban areas. 
+Spatial analysis of demographic patterns using census data.
+
+The line features connecting origins and destinations to visualize transportation movement across the region. The analysis found that personal vehicles dominate regional travel, while public transit, and active transportation are more common in dense urban areas. 
 You can view the detailed [Transit Report](Transit Report.pdf).
 
 ### Map of Differenced Normalized Burn Ratio (dNBR) Symbolized by Severity
