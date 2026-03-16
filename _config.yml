@@ -1,8 +1,3 @@
 title: Adelyn O'Reilly
-description: GIS Portfolio
-remote_theme: pages-themes/minimal
-plugins:
-  - jekyll-remote-theme
-sass:
-  style: compressed
-include: [_assets/css/custom.css]
+description: Bachelor of Science in Geography (GIS) University of Minnesota - Twin Cities College of Liberal Art
+
