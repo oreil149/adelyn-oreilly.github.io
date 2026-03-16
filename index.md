@@ -9,7 +9,7 @@ GIS Portfolio
 ## Course Projects
 
 ### Interactive Tsunami Web Map
-#### Interactive web map visualizing tsunami events and associated runups from 2020–2025. Pop-ups display event attributes such as water height, location, timestamp, and number of recorded runups. Built using JavaScript and the ArcGIS Maps SDK, developed and tested locally before deployment.
+Interactive web map visualizing tsunami events and associated runups from 2020–2025. Pop-ups display event attributes such as water height, location, timestamp, and number of recorded runups. Built using JavaScript and the ArcGIS Maps SDK, developed and tested locally before deployment.
 Using JavaScript, HTML/CSS, local host server, and <span>ArcGIS Maps SDK for JavaScript</span>.
 
 <video src="https://github.com/oreil149/tsunami.mp4" width="100" controls></video>
@@ -18,13 +18,13 @@ Using JavaScript, HTML/CSS, local host server, and <span>ArcGIS Maps SDK for Jav
 
 
 ### Interactive Map of Modes of Transportation to Work by U.S. State (2023)
-#### Interactive web map visualizing commuting patterns across the United States using 2023 census data. The map allows users to explore how different transportation modes vary geographically across states.
+Interactive web map visualizing commuting patterns across the United States using 2023 census data. The map allows users to explore how different transportation modes vary geographically across states.
 Using JavaScript, HTML/CSS, local host server, and <span>ArcGIS Maps SDK for JavaScript</span>.
 
 <a href="https://github.com/oreil149/Modes-of-Transportation-US">Modes of Transportation Interactive Map Repo</a>
 
 ### U.S. Imports and Exports Flow Map
-#### Cartographic visualization of U.S. foreign trade relationships
+Cartographic visualization of U.S. foreign trade relationships
 Using ArcGIS Pro geoprocessing tools such as XY Table to Point, XY Table to Line, attribute table joins, and geodesic line creation.
 
 <figure>
@@ -41,7 +41,7 @@ Using ArcGIS Pro geoprocessing tools such as XY Table to Point, XY Table to Line
 Spatial analysis of demographic patterns using census data.
 
 ### Glacial Maps
-#### Assessing Hydrological Risks of Hydraulic Fracking Near Glaciers in Alaska 1990 - 2020
+Assessing Hydrological Risks of Hydraulic Fracking Near Glaciers in Alaska 1990 - 2020
 Applied spatial analysis and hydrologic modeling in ArcGIS Pro, including buffer analysis, near analysis, flow direction, and watershed delineation using Raster and Vector data.
 
 <figure>
@@ -73,7 +73,7 @@ Percent Change in Area Near and Outside of the 50km and 100km radii around Fract
 You can view the detailed [Glacier Report](Glacier_Report.pdf).
 
 ### Visualizing Flow of Travel Behavior - Twin Cities Metropolitan Area - 2021
-#### This project analyzed and visualized travel patterns across the Twin Cities metropolitan area using the 2021 Travel Behavior Inventory survey dataset, Census 2020 Geography, and Census 2020 Demographic and Housing Characteristics File (DHC). 
+This project analyzed and visualized travel patterns across the Twin Cities metropolitan area using the 2021 Travel Behavior Inventory survey dataset, Census 2020 Geography, and Census 2020 Demographic and Housing Characteristics File (DHC). 
 Using spatial analysis tools in ArcGIS Pro along with data cleaning and statistical analysis in Excel and Python.
 
 <figure>
@@ -96,7 +96,7 @@ Using spatial analysis tools in ArcGIS Pro along with data cleaning and statisti
 You can view the detailed [Transit Report](Transit Report.pdf).
 
 ### Map of Differenced Normalized Burn Ratio (dNBR) Symbolized by Severity
-#### Conducted Wildfire Severity Analysis using Landsat 5 imagery to evaluate vegetation loss from the Bastrop wildfire in Texas. 
+Conducted Wildfire Severity Analysis using Landsat 5 imagery to evaluate vegetation loss from the Bastrop wildfire in Texas. 
 Using raster analysis and map algebra to calculate the Normalized Burn Ratio (NBR) for pre-fire and post-fire imagery and derived the Differenced Normalized Burn Ratio (dNBR) to quantify burn severity across the landscape. 
 
 <figure>
