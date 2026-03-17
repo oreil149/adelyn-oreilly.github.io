@@ -118,16 +118,17 @@ Using spatial analysis tools in ArcGIS Pro along with data cleaning and statisti
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Destination.jpg" width="100%" height="80%" alt="Twin Cities Weighted Destination Count by Census Block Group Population">
 </figure>
-Twin Cities Weighted Destination Counts by Census Block Group PopulationS to determine the per capita count in each destination census block group.
+Hennipen County Weighted Destination Counts by Census Block Group PopulationS to determine the per capita count in each destination census block group.
 
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/Destination.jpg" width="100%" height="80%" alt="Twin Cities Weighted Origin Count by Census Block Group Population">
 </figure>
-Twin Cities Weighted Origin Counts by Census Block Group PopulationS to determine the per capita count in each origin census block group.
+Hennipen County Weighted Origin Counts by Census Block Group PopulationS to determine the per capita count in each origin census block group.
 
 The line features connecting origins and destinations to visualize transportation movement across the region. The analysis found that personal vehicles dominate regional travel, while public transit, and active transportation are more common in dense urban areas. You can view the detailed [Travel Report](Tansit Report.pdf).
 
 
+## QGIS Maps
 
 ### Map of Differenced Normalized Burn Ratio (dNBR) Symbolized by Severity
 Conducted Wildfire Severity Analysis using Landsat 5 imagery to evaluate vegetation loss from the Bastrop wildfire in Texas. 
@@ -138,9 +139,6 @@ Using raster analysis and map algebra to calculate the Normalized Burn Ratio (NB
 </figure>
 
 #### The resulting map classified burn severity into five categories using equal-interval classification: enhanced regrowth, unburned, low, moderate, and high severity. Results showed that most of the study area remained unburned (~705 km²), while approximately 23.8 km² experienced high-severity burn, indicating significant vegetation loss. 
-
-
-## QGIS Maps 
 
 <figure>
   <img src="https://github.com/oreil149/adelyn-oreilly.github.io/raw/main/FireRoutes.png" width="100%" alt="Fire Routes and Service Areas Accross Minneapolis, MN">
